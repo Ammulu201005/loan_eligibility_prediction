@@ -1,0 +1,1 @@
+In this we will take the details of the loan applicant and the co applicant and loan amount and few other by using this data our model is going to predict if the applicant is eligible for the loan or not.
